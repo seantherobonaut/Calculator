@@ -1,0 +1,45 @@
+later add support for a greater degree of precision or variable precision
+
+Eventually change individual operation member functions to take in strings and return a double. Be sure they all listen to global variable of PRECISION
+
+Create a basic logging class again with a logging interface. (figure out c++ interfaces again)
+
+Use logging class to log errors, and also log steps for solving the equation.
+
+You'll want to add logging to the order of ops member functions
+
+Make your own find and replace function WITHOUT depending on Regex	
+
+      // bool target=false;
+      // int count = i-1;
+      // while(count>-1 && !target)
+      // {
+      //   if(equation[count]!='+' && equation[count]!='-' && equation[count]!='*' && equation[count]!='/')
+      //   {
+      //     startPos=count;
+      //     target=true;
+      //   }
+
+      //   count--;
+      // }	
+
+
+/*
+
+http://www.math-cs.gordon.edu/courses/cs211/ATMExample/
+http://www.cs.gordon.edu/courses/cs211/AddressBookExample/index.html
+http://en.cppreference.com/w/cpp/links/libs
+https://github.com/SFML/SFML
+http://www.winprog.org/tutorial/simple_window.html
+
+https://msdn.microsoft.com/en-us/library/bb384843.aspx
+https://msdn.microsoft.com/en-us/library/windows/desktop/ff381409(v=vs.85).aspx
+http://www.gamefromscratch.com/page/Game-From-Scratch-CPP-Edition-Part-4.aspx
+
+*/
+
+
+
+
+
+
